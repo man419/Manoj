@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [ManojMaven]">
+  <test name="ManojTest(failed)">
+    <classes>
+      <class name="myPack.Manoj">
+        <methods>
+          <include name="AddEmp"/>
+        </methods>
+      </class> <!-- myPack.Manoj -->
+    </classes>
+  </test> <!-- ManojTest(failed) -->
+</suite> <!-- Failed suite [ManojMaven] -->
